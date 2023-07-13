@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 # 박민서
 ---
-Junior Developer
+Junior Developer <br>
 
-2000.03.08
-🌟 portfolio 
-🌟 email   oset0232@naver.com
-🌟 github  https://github.com/MoongBan
-🌟 blog1   https://blog.naver.com/oset0232
-🌟 blog2   https://velog.io/@oset0232
+2000.03.08 <br>
+🌟 portfolio <br>
+🌟 email   oset0232@naver.com <br>
+🌟 github  https://github.com/MoongBan <br>
+🌟 blog1   https://blog.naver.com/oset0232 <br>
+🌟 blog2   https://velog.io/@oset0232 <br>
 
 [Show Details...](http://www.google.co.kr)
