@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 박민서
+---
+Junior Developer
+
+2000.03.08
+🌟 portfolio 
+🌟 email   oset0232@naver.com
+🌟 github  https://github.com/MoongBan
+🌟 blog1   https://blog.naver.com/oset0232
+🌟 blog2   https://velog.io/@oset0232
+
+[Show Details...](http://www.google.co.kr)
