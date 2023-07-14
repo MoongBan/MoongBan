@@ -25,4 +25,4 @@ Junior Developer <br>
 🌟 blog1   https://blog.naver.com/oset0232 <br>
 🌟 blog2   https://velog.io/@oset0232 <br>
 
-[Show Details...](http://www.google.co.kr)
+<!--[Show Details...](http://www.google.co.kr) -->
